@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Hoàng Long
+* Student Name: Hoang Long
 * Student ID: 22BI13259
+
 
